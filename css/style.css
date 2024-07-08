@@ -1,0 +1,11 @@
+.bgcolor{
+    background-color: rgb(255, 81, 0);
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.padding{
+    padding-left: 340px;
+}
